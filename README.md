@@ -1,18 +1,198 @@
-# 💫 About Me:
-# 👋 Hi, I'm Sourin Kundu<br><br>🎓 **Information Technology Student** at **Jalpaiguri Government Engineering College (JGEC)**<br><br>💻 Passionate about **Problem Solving, Data Analytics & Software Development**  <br>🚀 Currently strengthening my programming fundamentals and solving **DSA problems using C++**<br><br>## 🚀 Currently Learning & Practicing<br><br>💻 **C++ & STL**  <br>🧩 **Data Structures & Algorithms**  <br>🐍 **Python**  <br>🗄️ **SQL**  <br>📊 **Microsoft Excel**  <br>📈 **Power BI**  <br>🐼 **Pandas & NumPy**  <br>🔧 **Git & GitHub**<br><br>## 🧠 What I'm Working On<br><br>🧩 Solving **DSA problems** on LeetCode & Codeforces  <br>🧠 Improving my **problem-solving & algorithmic thinking**  <br>🛠️ Building projects for **hands-on development experience**  <br>📊 Working with data and creating **meaningful insights**  <br>🚀 Exploring new technologies and improving my programming skills<br><br>## 🎯 My Goal<br><br>To continuously improve my **coding, problem-solving & data analytics skills** and build **real-world projects** that turn ideas into practical solutions.<br><br>## 🌱 My Learning Philosophy<br><br>💡 **Learn → Practice → Build → Improve**<br><br>## 📫 Connect With Me<br><br>💼 **LinkedIn**  <br>🐙 **GitHub**  <br>📸 **Instagram**  <br>📘 **Facebook**
+<!-- ========================================================= -->
+<!--                    PROFILE HEADER                         -->
+<!-- ========================================================= -->
 
+<p align="center">
+  <img src="C:\Users\Sourin\OneDrive\Desktop\profile.jpg"
+       width="180"
+       height="180"
+       style="border-radius:50%;"
+       alt="Sourin Kundu"/>
+</p>
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/share/19siBsPRFV/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/ranasouro?stkn=MWVoZDZxOGhtajZ1cQ==) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sourin-kundu-868006394) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sourinkundu62@gmail.com) 
+<h1 align="center">👋 Hi, I'm Sourin Kundu</h1>
 
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=sourin-kundu&theme=merko&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=sourin-kundu&theme=merko&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=sourin-kundu&theme=merko&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=900&color=00C6FF&center=true&vCenter=true&width=750&lines=Software+Developer+%F0%9F%92%BB;Data+Analyst+%F0%9F%93%8A;Web+Developer+%F0%9F%8C%90;C%2B%2B+%26+DSA+Learner+%F0%9F%A7%A9;Always+Learning+%26+Building+%F0%9F%9A%80" />
+</p>
+
+<p align="center">
+  🎓 Information Technology Student @
+  <b>Jalpaiguri Government Engineering College</b>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Sourin-Kundu&label=Profile%20Views&color=00C6FF&style=for-the-badge"/>
+</p>
 
 ---
-[![](https://komarev.com/ghpvc/?username=sourin-kundu&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 👨‍💻 About Me
+
+🎓 **Information Technology Student** at **Jalpaiguri Government Engineering College (JGEC)**
+
+💻 Passionate about **Problem Solving, Data Analytics & Software Development**
+
+🧩 Currently solving **DSA problems using C++**
+
+📊 Exploring **Data Analytics** with Python, SQL, Excel and Power BI
+
+🌐 Learning **Web Development** and building practical projects
+
+🚀 I believe in learning through **Practice → Projects → Consistency**
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Programming & Problem Solving
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,python&theme=dark"/>
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/C%2B%2B-DSA-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/>
+
+</p>
+
+### 🌐 Web Development
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js&theme=dark"/>
+</p>
+
+### 📊 Data Analytics
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+
+</p>
+
+### 🔧 Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark"/>
+</p>
+
+---
+
+## 🚀 Currently Learning & Practicing
+
+| 💻 Area | 📚 Learning |
+|---|---|
+| 🧩 DSA | C++ & STL |
+| 🐍 Programming | Python |
+| 🗄️ Database | SQL |
+| 📊 Analytics | Excel |
+| 📈 Visualization | Power BI |
+| 🐼 Data Analysis | Pandas & NumPy |
+| 🌐 Development | HTML, CSS, JavaScript |
+| 🔧 Tools | Git & GitHub |
+
+---
+
+## 🧠 What I'm Working On
+
+- 🧩 Solving **DSA problems** on LeetCode & Codeforces
+- 🧠 Improving **Problem Solving & Algorithmic Thinking**
+- 📊 Practicing **SQL, Excel & Power BI**
+- 🐍 Working with **Python, Pandas & NumPy**
+- 🌐 Learning **Web Development**
+- 🛠️ Building practical **real-world projects**
+
+---
+
+## 🧩 DSA & Problem Solving
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/C%2B%2B-DSA-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Arrays-00C6FF?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/STL-0072FF?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Binary%20Search-00C6FF?style=for-the-badge"/>
+
+</p>
+
+### Topics I'm Practicing
+
+- 🔹 Arrays & Strings
+- 🔹 Searching & Sorting
+- 🔹 Two Pointers
+- 🔹 Binary Search
+- 🔹 STL
+- 🔹 Recursion
+- 🔹 Basic Graphs
+- 🔹 Problem Solving
+
+---
+
+## 📊 Data Analytics
+
+### 🗄️ SQL
+
+- SELECT
+- WHERE
+- ORDER BY
+- GROUP BY
+- HAVING
+- BETWEEN
+- JOIN
+- Subqueries
+- Data manipulation
+
+### 📊 Excel
+
+- Data Cleaning
+- Formulas
+- Sorting & Filtering
+- Data Analysis
+- Dashboards
+
+### 📈 Power BI
+
+- Data Visualization
+- Dashboards
+- Charts
+- Reports
+- Data Insights
+
+### 🐍 Python
+
+- Pandas
+- NumPy
+- Data Cleaning
+- Data Analysis
+- Visualization
+
+---
+
+## 🌐 Web Development
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js&theme=dark"/>
+
+</p>
+
+Currently learning:
+
+```text
+HTML → CSS → JavaScript → Responsive Websites → Projects
