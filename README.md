@@ -1,8 +1,8 @@
 <!-- ============================================================ -->
-<!--                 SOURIN KUNDU - GITHUB README                 -->
+<!--                  SOURIN KUNDU | GITHUB README                -->
 <!-- ============================================================ -->
 
-<!-- ======================= ANIMATED HEADER ======================= -->
+<!-- ======================== ANIMATED HEADER ======================== -->
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=SOURIN%20KUNDU&fontSize=55&fontAlignY=38&animation=twinkling&fontColor=ffffff&color=0:0072FF,50:00C6FF,100:8A2BE2"/>
@@ -22,7 +22,7 @@
 
 <br>
 
-<!-- ======================= PROFILE PHOTO ======================= -->
+<!-- ======================== PROFILE PHOTO ======================== -->
 
 <p align="center">
   <img src="./assets/profile.jpg" width="185" height="185" alt="Sourin Kundu"/>
@@ -34,17 +34,17 @@
 
 ---
 
-<!-- ======================= ABOUT ME ======================= -->
+<!-- ======================== ABOUT ME ======================== -->
 
 <details open>
 <summary><h2>👨‍💻 About Me</h2></summary>
 
 <br>
 
-<table>
+<table align="center">
 <tr>
 
-<td width="50%">
+<td width="50%" valign="top">
 
 <h3>💻 Who Am I?</h3>
 
@@ -62,7 +62,7 @@
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
 <h3>⚡ What I Do</h3>
 
@@ -70,13 +70,13 @@
 
 📈 Analyze Data
 
-🗄️ Write SQL Queries
+🗄️ Practice SQL
 
 🐍 Work with Python
 
 🌐 Build Websites
 
-🛠️ Build Real-World Projects
+🛠️ Create Practical Projects
 
 </td>
 
@@ -93,9 +93,12 @@
 
 ---
 
-<!-- ======================= SKILL BOXES ======================= -->
+<!-- ======================== SKILLS ======================== -->
 
-<h2 align="center">🧰 My Skills</h2>
+<details open>
+<summary><h2>🧰 Skills & Technologies</h2></summary>
+
+<br>
 
 <table align="center">
 <tr>
@@ -108,8 +111,11 @@
 
 <br><br>
 
-C++  
-Python
+<b>C++</b>
+
+<br>
+
+<b>Python</b>
 
 </td>
 
@@ -121,11 +127,23 @@ Python
 
 <br><br>
 
-SQL  
-Excel  
-Power BI  
-Pandas  
-NumPy
+<b>SQL</b>
+
+<br>
+
+<b>Excel</b>
+
+<br>
+
+<b>Power BI</b>
+
+<br>
+
+<b>Pandas</b>
+
+<br>
+
+<b>NumPy</b>
 
 </td>
 
@@ -137,9 +155,15 @@ NumPy
 
 <br><br>
 
-HTML  
-CSS  
-JavaScript
+<b>HTML</b>
+
+<br>
+
+<b>CSS</b>
+
+<br>
+
+<b>JavaScript</b>
 
 </td>
 
@@ -151,60 +175,83 @@ JavaScript
 
 <br><br>
 
-Git  
-GitHub  
-VS Code
+<b>Git</b>
+
+<br>
+
+<b>GitHub</b>
+
+<br>
+
+<b>VS Code</b>
 
 </td>
 
 </tr>
 </table>
 
+<br>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=1400&pause=500&color=00C6FF&center=true&vCenter=true&width=700&lines=Learn+%E2%86%92+Practice+%E2%86%92+Build+%E2%86%92+Improve"/>
+</p>
+
+</details>
+
 ---
 
-<!-- ======================= C++ / DSA ======================= -->
+<!-- ======================== C++ & DSA ======================== -->
 
 <details open>
 <summary><h2>💻 C++ & DSA</h2></summary>
 
 <br>
 
-<table>
+<table align="center">
 <tr>
 
-<td width="68%">
+<td width="68%" valign="top">
 
 <h3>🧩 Problem Solving Journey</h3>
 
-I am currently practicing <b>Data Structures & Algorithms using C++</b>.
+Currently practicing <b>Data Structures & Algorithms using C++</b>.
 
 <br>
 
-🔹 Arrays  
-🔹 Strings  
-🔹 Searching  
-🔹 Sorting  
-🔹 Two Pointers  
-🔹 Binary Search  
-🔹 Recursion  
-🔹 STL  
-🔹 Problem Solving
+<table>
+<tr>
+<td>🧩 Arrays</td>
+<td>🔤 Strings</td>
+</tr>
+<tr>
+<td>🔍 Searching</td>
+<td>📊 Sorting</td>
+</tr>
+<tr>
+<td>👉 Two Pointers</td>
+<td>🔎 Binary Search</td>
+</tr>
+<tr>
+<td>🔄 Recursion</td>
+<td>📦 STL</td>
+</tr>
+</table>
 
 <br>
 
-<h3>🌐 Practice Platforms</h3>
+<h3>🌐 Coding Platforms</h3>
 
 <a href="https://leetcode.com/u/SourinAlgo/">
 <img src="https://img.shields.io/badge/LeetCode-SourinAlgo-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
 
-&nbsp;
+<br><br>
 
 <a href="https://www.geeksforgeeks.org/profile/sourinkj519">
 <img src="https://img.shields.io/badge/GeeksforGeeks-sourinkj519-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
 </a>
 
-&nbsp;
+<br><br>
 
 <a href="https://codeforces.com/">
 <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/>
@@ -212,25 +259,31 @@ I am currently practicing <b>Data Structures & Algorithms using C++</b>.
 
 </td>
 
-<td align="center">
+<td align="center" valign="middle">
 
-<!-- KEEPING THE CAT + LAPTOP ANIMATION -->
+<!-- CAT + LAPTOP ANIMATION - KEEPING IT -->
 
-<img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="190"/>
+<img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="200"/>
 
 <br><br>
 
 🧠 <b>THINK</b>
 
+<br>
 ⬇️
+<br>
 
 💻 <b>CODE</b>
 
+<br>
 ⬇️
+<br>
 
 🐛 <b>DEBUG</b>
 
+<br>
 ⬇️
+<br>
 
 🚀 <b>IMPROVE</b>
 
@@ -243,14 +296,14 @@ I am currently practicing <b>Data Structures & Algorithms using C++</b>.
 
 ---
 
-<!-- ======================= DATA ANALYTICS ======================= -->
+<!-- ======================== DATA ANALYTICS ======================== -->
 
 <details open>
 <summary><h2>📊 Data Analytics</h2></summary>
 
 <br>
 
-<table>
+<table align="center">
 <tr>
 
 <td align="center" width="25%">
@@ -261,10 +314,26 @@ I am currently practicing <b>Data Structures & Algorithms using C++</b>.
 
 <br><br>
 
-SELECT  
-JOIN  
-GROUP BY  
-HAVING  
+SELECT
+
+<br>
+
+WHERE
+
+<br>
+
+JOIN
+
+<br>
+
+GROUP BY
+
+<br>
+
+HAVING
+
+<br>
+
 Subqueries
 
 </td>
@@ -277,10 +346,19 @@ Subqueries
 
 <br><br>
 
-Pandas  
-NumPy  
-Cleaning  
-Analysis
+Pandas
+
+<br>
+
+NumPy
+
+<br>
+
+Data Cleaning
+
+<br>
+
+Data Analysis
 
 </td>
 
@@ -292,9 +370,22 @@ Analysis
 
 <br><br>
 
-Formulas  
-Filtering  
-Cleaning  
+Formulas
+
+<br>
+
+Sorting
+
+<br>
+
+Filtering
+
+<br>
+
+Data Cleaning
+
+<br>
+
 Dashboards
 
 </td>
@@ -307,10 +398,19 @@ Dashboards
 
 <br><br>
 
-Charts  
-Reports  
-Dashboards  
-Insights
+Charts
+
+<br>
+
+Reports
+
+<br>
+
+Dashboards
+
+<br>
+
+Data Insights
 
 </td>
 
@@ -327,7 +427,7 @@ Insights
 
 ---
 
-<!-- ======================= WEB DEVELOPMENT ======================= -->
+<!-- ======================== WEB DEVELOPMENT ======================== -->
 
 <details open>
 <summary><h2>🌐 Web Development</h2></summary>
@@ -345,6 +445,10 @@ Insights
 
 Structure
 
+<br><br>
+
+🧱 Build
+
 </td>
 
 <td align="center" width="25%">
@@ -354,6 +458,10 @@ Structure
 <h3>CSS</h3>
 
 Design
+
+<br><br>
+
+🎨 Style
 
 </td>
 
@@ -365,6 +473,10 @@ Design
 
 Interaction
 
+<br><br>
+
+⚡ Dynamic
+
 </td>
 
 <td align="center" width="25%">
@@ -374,6 +486,10 @@ Interaction
 <h3>GitHub</h3>
 
 Projects
+
+<br><br>
+
+🚀 Publish
 
 </td>
 
@@ -390,69 +506,53 @@ Projects
 
 ---
 
-<!-- ======================= PROJECTS ======================= -->
+<!-- ======================== PROJECTS ======================== -->
 
 <details open>
-<summary><h2>🚀 Featured Projects</h2></summary>
+<summary><h2>🚀 Projects & Practice</h2></summary>
 
 <br>
 
-<table>
+<table align="center">
 <tr>
 
-<td width="50%">
-
-<h2>🌊 FloodWatch</h2>
-
-<h3>Urban Flood Nowcasting System</h3>
-
-🌧️ Rainfall Data
-
-💧 Water-Level Monitoring
-
-🧠 Machine Learning
-
-🗺️ GIS Mapping
-
-📊 Dashboard
-
-🚨 Flood Alerts
-
-<br><br>
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/PostGIS-4169E1?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/QGIS-589632?style=for-the-badge"/>
-
-</td>
-
-<td width="50%">
+<td width="50%" valign="top">
 
 <h2>🧩 DSA Practice</h2>
 
 <h3>C++ Problem Solving</h3>
 
-🔹 Arrays
+<br>
 
-🔹 Strings
+🧩 Arrays
 
-🔹 Searching
+<br>
 
-🔹 Sorting
+🔤 Strings
 
-🔹 Binary Search
+<br>
 
-🔹 Two Pointers
+🔍 Searching
 
-🔹 STL
+<br>
 
-🔹 Codeforces
+📊 Sorting
 
-🔹 LeetCode
+<br>
+
+👉 Two Pointers
+
+<br>
+
+🔎 Binary Search
+
+<br>
+
+📦 STL
+
+<br>
+
+🧠 Problem Solving
 
 <br><br>
 
@@ -460,43 +560,111 @@ Projects
 
 </td>
 
+<td width="50%" valign="top">
+
+<h2>📊 Data Analytics</h2>
+
+<h3>Analytics Practice</h3>
+
+<br>
+
+🗄️ SQL Queries
+
+<br>
+
+📗 Excel Analysis
+
+<br>
+
+📈 Power BI Dashboards
+
+<br>
+
+🐍 Python Analysis
+
+<br>
+
+🐼 Pandas
+
+<br>
+
+🔢 NumPy
+
+<br>
+
+📊 Data Visualization
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Data%20Analytics-00C6FF?style=for-the-badge"/>
+
+</td>
+
 </tr>
 
 <tr>
 
-<td width="50%">
-
-<h2>📊 Data Analytics</h2>
-
-📈 Data Analysis
-
-🗄️ SQL Projects
-
-📗 Excel Dashboards
-
-📊 Power BI Reports
-
-🐍 Python Data Analysis
-
-🐼 Pandas & NumPy
-
-</td>
-
-<td width="50%">
+<td width="50%" valign="top">
 
 <h2>🌐 Web Projects</h2>
 
+<h3>Development Practice</h3>
+
+<br>
+
 🟧 HTML
+
+<br>
 
 🟦 CSS
 
+<br>
+
 🟨 JavaScript
 
-📱 Responsive Websites
+<br>
+
+📱 Responsive Design
+
+<br>
 
 ✨ Interactive UI
 
+<br>
+
 🚀 Project Development
+
+</td>
+
+<td width="50%" valign="top">
+
+<h2>🛠️ Learning Projects</h2>
+
+<h3>Build & Experiment</h3>
+
+<br>
+
+💻 Programming
+
+<br>
+
+📊 Data
+
+<br>
+
+🌐 Web
+
+<br>
+
+🧩 DSA
+
+<br>
+
+🔧 Git & GitHub
+
+<br>
+
+🚀 Real-World Ideas
 
 </td>
 
@@ -507,7 +675,7 @@ Projects
 
 ---
 
-<!-- ======================= GITHUB STATS ======================= -->
+<!-- ======================== GITHUB STATS ======================== -->
 
 <details open>
 <summary><h2>📈 GitHub Stats</h2></summary>
@@ -522,11 +690,17 @@ Projects
 
 </p>
 
+<br>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=1500&pause=500&color=00C6FF&center=true&vCenter=true&width=700&lines=Coding+%F0%9F%92%BB;Learning+%F0%9F%93%9A;Building+%F0%9F%9B%A0%EF%B8%8F;Growing+%F0%9F%9A%80"/>
+</p>
+
 </details>
 
 ---
 
-<!-- ======================= STREAK ======================= -->
+<!-- ======================== STREAK ======================== -->
 
 <details open>
 <summary><h2>🔥 Contribution Streak</h2></summary>
@@ -547,7 +721,7 @@ Projects
 
 ---
 
-<!-- ======================= ACTIVITY ======================= -->
+<!-- ======================== CONTRIBUTION ACTIVITY ======================== -->
 
 <details open>
 <summary><h2>📊 Contribution Activity</h2></summary>
@@ -555,20 +729,14 @@ Projects
 <br>
 
 <p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sourin-Kundu&theme=tokyo-night&hide_border=true&area=true&radius=12"/>
-
-</p>
-
-<p align="center">
-  <i>GitHub contribution activity</i>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sourin-Kundu&theme=tokyo-night&hide_border=true&area=true&radius=12"/>
 </p>
 
 </details>
 
 ---
 
-<!-- ======================= ACHIEVEMENTS ======================= -->
+<!-- ======================== ACHIEVEMENTS ======================== -->
 
 <details open>
 <summary><h2>🏆 GitHub Achievements</h2></summary>
@@ -578,7 +746,7 @@ Projects
 <table align="center">
 <tr>
 
-<td align="center">
+<td align="center" width="20%">
 
 ⭐
 
@@ -586,13 +754,13 @@ Projects
 
 <b>Repositories</b>
 
-<br>
+<br><br>
 
-Build & Create
+Create
 
 </td>
 
-<td align="center">
+<td align="center" width="20%">
 
 💻
 
@@ -600,13 +768,13 @@ Build & Create
 
 <b>Commits</b>
 
-<br>
+<br><br>
 
-Keep Coding
+Code
 
 </td>
 
-<td align="center">
+<td align="center" width="20%">
 
 🧩
 
@@ -614,13 +782,13 @@ Keep Coding
 
 <b>Problems</b>
 
-<br>
+<br><br>
 
-Keep Solving
+Solve
 
 </td>
 
-<td align="center">
+<td align="center" width="20%">
 
 🚀
 
@@ -628,13 +796,13 @@ Keep Solving
 
 <b>Projects</b>
 
-<br>
+<br><br>
 
-Keep Building
+Build
 
 </td>
 
-<td align="center">
+<td align="center" width="20%">
 
 🌱
 
@@ -642,9 +810,9 @@ Keep Building
 
 <b>Learning</b>
 
-<br>
+<br><br>
 
-Every Day
+Grow
 
 </td>
 
@@ -661,7 +829,7 @@ Every Day
 
 ---
 
-<!-- ======================= LEARNING LOOP ======================= -->
+<!-- ======================== LEARNING LOOP ======================== -->
 
 <details open>
 <summary><h2>🧠 My Learning Loop</h2></summary>
@@ -734,7 +902,7 @@ Every Day
 
 ---
 
-<!-- ======================= CONNECT ======================= -->
+<!-- ======================== CODING PROFILES ======================== -->
 
 <details open>
 <summary><h2>🔗 Coding Profiles</h2></summary>
@@ -771,7 +939,7 @@ Every Day
 
 ---
 
-<!-- ======================= ANIMATED FOOTER ======================= -->
+<!-- ======================== ANIMATED FOOTER ======================== -->
 
 <br>
 
