@@ -25,7 +25,7 @@
 <!-- ======================== PROFILE PHOTO ======================== -->
 
 <p align="center">
-  <img src=""C:\Users\Sourin\OneDrive\Desktop\profile.jpg"" width="185" height="185" alt="Sourin Kundu"/>
+  <img src="C:\Users\Sourin\OneDrive\Desktop\profile.jpg" width="185" height="185" alt="Sourin Kundu"/>
 </p>
 
 <p align="center">
