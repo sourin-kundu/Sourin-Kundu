@@ -1,8 +1,33 @@
-# 💫 About Me:
-# 👋 Hi, I'm Sourin Kundu<br><br>🎓 Information Technology Student at **Jalpaiguri Government Engineering College (JGEC)**<br><br>💻 I'm passionate about **Problem Solving, Data Analytics, and Software Development**. Currently, I’m strengthening my programming fundamentals and solving **DSA problems using C++**.<br><br>### 🚀 Currently Learning & Practicing<br><br>* **C++ & STL**<br>* **Data Structures & Algorithms**<br>* **Python**<br>* **SQL**<br>* **Microsoft Excel**<br>* **Power BI**<br>* **Pandas & NumPy**<br>* **Git & GitHub**<br><br>### 🧠 What I'm Working On<br><br>* Solving DSA problems on **LeetCode & Codeforces**<br>* Improving my **problem-solving and algorithmic thinking**<br>* Building projects to gain **hands-on development and data analysis experience**<br>* Learning how to work with data and create meaningful insights<br><br>### 🎯 My Goal<br><br>To continuously improve my **coding, problem-solving, and data analytics skills** and build real-world projects that turn ideas into practical solutions.<br><br>> 💡 *Learn → Practice → Build → Improve*<br>
-
-
-## 🌐 Socials:
+💫 About Me:
+👋 Hi, I'm Sourin Kundu
+🎓 Information Technology Student at Jalpaiguri Government Engineering College (JGEC)
+💻 Passionate about Problem Solving, Data Analytics & Software Development  
+🚀 Currently strengthening my programming fundamentals and solving DSA problems using C++
+## 🚀 Currently Learning & Practicing
+💻 C++ & STL  
+🧩 Data Structures & Algorithms 
+🐍 Python  
+🗄️ SQL  
+📊 Microsoft Excel  
+📈 Power BI  
+🐼 Pandas & NumPy  
+🔧 Git & GitHub
+## 🧠 What I'm Working On
+🧩 Solving **DSA problems** on LeetCode & Codeforces  
+🧠 Improving my **problem-solving & algorithmic thinking  
+🛠️ Building projects for **hands-on development experience  
+📊 Working with data and creating **meaningful insights 
+🚀 Exploring new technologies and improving my programming skills
+🎯 My Goal
+To continuously improve my coding, problem-solving & data analytics skills** and build real-world projects that turn ideas into practical solutions.
+🌱 My Learning Philosophy
+💡 Learn → Practice → Build → Improve
+📫 Connect With Me
+💼 LinkedIn  
+🐙 GitHub 
+📸 Instagram  
+📘 Facebook
+🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/share/19siBsPRFV/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/ranasouro?stkn=MWVoZDZxOGhtajZ1cQ==) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sourin-kundu-868006394) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sourinkundu62@gmail.com) 
 
 # 💻 Tech Stack:
