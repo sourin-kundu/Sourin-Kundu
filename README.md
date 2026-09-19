@@ -41,7 +41,7 @@
 
 <br>
 
-<table align="center">
+<table align="center" width="100%">
 <tr>
 
 <td width="50%" valign="top">
@@ -52,13 +52,15 @@
 
 🏫 Jalpaiguri Government Engineering College
 
+📅 B.Tech IT — Batch '29
+
 🧩 C++ & DSA Learner
 
 📊 Aspiring Data Analyst
 
 🌐 Web Development Learner
 
-🚀 Project Builder
+🚀 Always Learning & Building
 
 </td>
 
@@ -68,7 +70,9 @@
 
 🧠 Solve Programming Problems
 
-📈 Analyze Data
+💻 Practice C++ & DSA
+
+📊 Analyze Data
 
 🗄️ Practice SQL
 
@@ -100,7 +104,7 @@
 
 <br>
 
-<table align="center">
+<table align="center" width="100%">
 <tr>
 
 <td align="center" width="25%">
@@ -121,7 +125,7 @@
 
 <td align="center" width="25%">
 
-<h3>📊 Data</h3>
+<h3>📊 Data Analytics</h3>
 
 <img src="https://skillicons.dev/icons?i=mysql&theme=dark"/>
 
@@ -207,7 +211,7 @@
 
 <br>
 
-<table align="center">
+<table align="center" width="100%">
 <tr>
 
 <td width="68%" valign="top">
@@ -218,22 +222,23 @@ Currently practicing <b>Data Structures & Algorithms using C++</b>.
 
 <br>
 
-<table>
+<table width="100%">
 <tr>
-<td>🧩 Arrays</td>
-<td>🔤 Strings</td>
+<td align="center">🧩<br><b>Arrays</b></td>
+<td align="center">🔤<br><b>Strings</b></td>
+<td align="center">🔍<br><b>Searching</b></td>
 </tr>
+
 <tr>
-<td>🔍 Searching</td>
-<td>📊 Sorting</td>
+<td align="center">📊<br><b>Sorting</b></td>
+<td align="center">👉<br><b>Two Pointers</b></td>
+<td align="center">🔎<br><b>Binary Search</b></td>
 </tr>
+
 <tr>
-<td>👉 Two Pointers</td>
-<td>🔎 Binary Search</td>
-</tr>
-<tr>
-<td>🔄 Recursion</td>
-<td>📦 STL</td>
+<td align="center">🔄<br><b>Recursion</b></td>
+<td align="center">📦<br><b>STL</b></td>
+<td align="center">🧠<br><b>Problem Solving</b></td>
 </tr>
 </table>
 
@@ -261,7 +266,10 @@ Currently practicing <b>Data Structures & Algorithms using C++</b>.
 
 <td align="center" valign="middle">
 
-<!-- CAT + LAPTOP ANIMATION - KEEPING IT -->
+<!-- ====================================================== -->
+<!--              CAT + LAPTOP ANIMATION                    -->
+<!--              DO NOT CHANGE THIS ANIMATION              -->
+<!-- ====================================================== -->
 
 <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="200"/>
 
@@ -292,6 +300,12 @@ Currently practicing <b>Data Structures & Algorithms using C++</b>.
 </tr>
 </table>
 
+<br>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=1300&pause=400&color=00C6FF&center=true&vCenter=true&width=700&lines=Problem+by+Problem+%F0%9F%A7%A9;Bug+by+Bug+%F0%9F%90%9B;Step+by+Step+%F0%9F%9A%80"/>
+</p>
+
 </details>
 
 ---
@@ -303,14 +317,14 @@ Currently practicing <b>Data Structures & Algorithms using C++</b>.
 
 <br>
 
-<table align="center">
+<table align="center" width="100%">
 <tr>
 
 <td align="center" width="25%">
 
 <h3>🗄️ SQL</h3>
 
-<img src="https://skillicons.dev/icons?i=mysql&theme=dark" width="70"/>
+<img src="https://skillicons.dev/icons?i=postgresql&theme=dark" width="70"/>
 
 <br><br>
 
@@ -322,7 +336,7 @@ WHERE
 
 <br>
 
-JOIN
+ORDER BY
 
 <br>
 
@@ -331,6 +345,14 @@ GROUP BY
 <br>
 
 HAVING
+
+<br>
+
+BETWEEN
+
+<br>
+
+JOIN
 
 <br>
 
@@ -359,6 +381,10 @@ Data Cleaning
 <br>
 
 Data Analysis
+
+<br>
+
+Visualization
 
 </td>
 
@@ -410,7 +436,11 @@ Dashboards
 
 <br>
 
-Data Insights
+Data Visualization
+
+<br>
+
+Insights
 
 </td>
 
@@ -434,7 +464,7 @@ Data Insights
 
 <br>
 
-<table align="center">
+<table align="center" width="100%">
 <tr>
 
 <td align="center" width="25%">
@@ -489,7 +519,7 @@ Projects
 
 <br><br>
 
-🚀 Publish
+🚀 Build
 
 </td>
 
@@ -506,14 +536,15 @@ Projects
 
 ---
 
-<!-- ======================== PROJECTS ======================== -->
+<!-- ======================== PROJECTS & PRACTICE ======================== -->
 
 <details open>
 <summary><h2>🚀 Projects & Practice</h2></summary>
 
 <br>
 
-<table align="center">
+<table align="center" width="100%">
+
 <tr>
 
 <td width="50%" valign="top">
@@ -638,9 +669,9 @@ Projects
 
 <td width="50%" valign="top">
 
-<h2>🛠️ Learning Projects</h2>
+<h2>🛠️ Learning & Building</h2>
 
-<h3>Build & Experiment</h3>
+<h3>Always Improving</h3>
 
 <br>
 
@@ -648,15 +679,15 @@ Projects
 
 <br>
 
-📊 Data
+🧠 Problem Solving
 
 <br>
 
-🌐 Web
+📊 Data Analytics
 
 <br>
 
-🧩 DSA
+🌐 Web Development
 
 <br>
 
@@ -669,6 +700,7 @@ Projects
 </td>
 
 </tr>
+
 </table>
 
 </details>
@@ -708,7 +740,9 @@ Projects
 <br>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Sourin-Kundu&theme=tokyonight&hide_border=true&border_radius=15"/>
+
+<img src="https://streak-stats.demolab.com/?user=Sourin-Kundu&theme=tokyonight&hide_border=true&border_radius=15"/>
+
 </p>
 
 <br>
@@ -721,15 +755,17 @@ Projects
 
 ---
 
-<!-- ======================== CONTRIBUTION ACTIVITY ======================== -->
+<!-- ======================== CONTRIBUTION SNAKE ======================== -->
 
 <details open>
-<summary><h2>📊 Contribution Activity</h2></summary>
+<summary><h2>🐍 Contribution Journey</h2></summary>
 
 <br>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sourin-Kundu&theme=tokyo-night&hide_border=true&area=true&radius=12"/>
+
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" alt="GitHub Contribution Snake"/>
+
 </p>
 
 </details>
@@ -743,14 +779,14 @@ Projects
 
 <br>
 
-<table align="center">
+<table align="center" width="100%">
 <tr>
 
 <td align="center" width="20%">
 
 ⭐
 
-<br>
+<br><br>
 
 <b>Repositories</b>
 
@@ -764,7 +800,7 @@ Create
 
 💻
 
-<br>
+<br><br>
 
 <b>Commits</b>
 
@@ -778,7 +814,7 @@ Code
 
 🧩
 
-<br>
+<br><br>
 
 <b>Problems</b>
 
@@ -792,7 +828,7 @@ Solve
 
 🚀
 
-<br>
+<br><br>
 
 <b>Projects</b>
 
@@ -806,7 +842,7 @@ Build
 
 🌱
 
-<br>
+<br><br>
 
 <b>Learning</b>
 
@@ -822,7 +858,9 @@ Grow
 <br>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&duration=1500&pause=500&color=FFD700&center=true&vCenter=true&width=700&lines=Keep+Building+%F0%9F%8F%86;Keep+Learning+%F0%9F%8C%B1;Keep+Growing+%F0%9F%9A%80"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&duration=1500&pause=500&color=FFD700&center=true&vCenter=true&width=700&lines=Keep+Building+%F0%9F%8F%86;Keep+Learning+%F0%9F%8C%B1;Keep+Growing+%F0%9F%9A%80"/>
+
 </p>
 
 </details>
@@ -909,25 +947,53 @@ Grow
 
 <br>
 
-<p align="center">
+<table align="center">
+<tr>
+
+<td align="center" width="33%">
 
 <a href="https://leetcode.com/u/SourinAlgo/">
-  <img src="https://img.shields.io/badge/LeetCode-SourinAlgo-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/LeetCode-SourinAlgo-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+
 </a>
 
-&nbsp;&nbsp;
+<br><br>
+
+🧩 <b>Problem Solving</b>
+
+</td>
+
+<td align="center" width="33%">
 
 <a href="https://www.geeksforgeeks.org/profile/sourinkj519">
-  <img src="https://img.shields.io/badge/GeeksforGeeks-sourinkj519-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/GeeksforGeeks-sourinkj519-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
+
 </a>
 
-&nbsp;&nbsp;
+<br><br>
+
+💻 <b>Coding Practice</b>
+
+</td>
+
+<td align="center" width="33%">
 
 <a href="https://github.com/Sourin-Kundu">
-  <img src="https://img.shields.io/badge/GitHub-Sourin--Kundu-181717?style=for-the-badge&logo=github&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/GitHub-Sourin--Kundu-181717?style=for-the-badge&logo=github&logoColor=white"/>
+
 </a>
 
-</p>
+<br><br>
+
+🚀 <b>Projects & Code</b>
+
+</td>
+
+</tr>
+</table>
 
 <br>
 
@@ -939,7 +1005,7 @@ Grow
 
 ---
 
-<!-- ======================== ANIMATED FOOTER ======================== -->
+<!-- ======================== FINAL ANIMATION ======================== -->
 
 <br>
 
@@ -949,8 +1015,12 @@ Grow
 
 </p>
 
+<!-- ======================== ANIMATED FOOTER ======================== -->
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&animation=twinkling&color=0:0072FF,50:00C6FF,100:8A2BE2"/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&animation=twinkling&color=0:0072FF,50:00C6FF,100:8A2BE2"/>
+
 </p>
 
 <p align="center">
